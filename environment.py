@@ -1,4 +1,4 @@
-# https://deeplearningcourses.com/c/artificial-intelligence-reinforcement-learning-in-python
+ #code adapted from https://deeplearningcourses.com/c/artificial-intelligence-reinforcement-learning-in-python
 
 from builtins import range
 
